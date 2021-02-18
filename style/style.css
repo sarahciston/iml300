@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+/* type */
+@font-face {
+    font-family: "Pilowlava";
+    src: url("../style/fonts/Pilowlava-Regular.woff2") format("woff2"),
+        /* url("../fonts/Pilowlava-Regular.woff") format("woff"),
+        url("../fonts/Pilowlava-Regular.woff2") format("eot"); */
+}
+
+body{
+	font-family: 'Arial', sans-serif;
+}
+
+/* positioning */
+
+section {
+	width: 600px;
+	margin-left: 400px;
+    
+}
